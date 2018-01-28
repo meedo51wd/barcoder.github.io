@@ -1,0 +1,12 @@
+﻿# Project Name: Barcoder.
+
+# Project's Idea:
+Responsive barcoder.
+
+# Project Features:
+- Responsive.
+- Barcoder.
+
+# Project Author: Ahmed Alsaleh (MeeDO51).
+
+You can try this project by visiting demo.meedo51.pro/barcoder
